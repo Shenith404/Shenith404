@@ -1,4 +1,4 @@
-![BLack Minimalist Corporate Staff Identity LinkedIn Banner (1)](https://github.com/Shenith404/Shenith404/assets/139686889/043ff928-386e-4918-b8ca-9b6ea4159eaa)
+![Green Simple Manager LinkedIn Banner (1)](https://github.com/Shenith404/Shenith404/assets/139686889/36dd2c05-56ad-480b-86a3-9a3648303554)
 
 <h1 align="center">Hi 👋, I'm Shenith Bandara</h1>
 <h3 align="center">I am undergraduate of the Faculty of Engineering, University of Ruhuna. I am reading for a BSc. (Hons.) Degree in Computer Engineering.</h3>
