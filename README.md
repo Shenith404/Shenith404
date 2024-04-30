@@ -34,12 +34,11 @@
 
 # 📊 GitHub Stats:
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenith404&show_icons=true&locale=en&layout=compact&theme=dark" alt="shenith404" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenith404&show_icons=true&locale=en&theme=dark" alt="shenith404" /></p>
-
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shenith404&theme=dark" alt="GitHub Streak" /></a></p>
+![](https://github-readme-stats.vercel.app/api?username=Shenith404&theme=radical&hide_border=false&include_all_commits=false&count_private=false) &nbsp; &nbsp; &nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shenith404&theme=radical&hide_border=false)
+<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shenith404&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
