@@ -55,6 +55,9 @@ A complete, responsive PoS solution for retail shops with features for product m
 * **Saloon Management System:** A database-intensive project using MySQL, focusing on ER diagram design, SQL implementation, and performance optimization.
 * **Miracle Diary Photography:** [https://miraclediaryweddings.com](https://miraclediaryweddings.com)
 * **GPA Calculator:** [https://gpa.sarislabs.com](https://gpa.sarislabs.com)
+* **Yahoo Auction Builder:** [https://anbiplus.cloud](https://anbiplus.cloud)
+
+  
 
 ---
 
