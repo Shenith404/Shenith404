@@ -15,7 +15,7 @@ I love solving complex puzzles (aka "bugs"), thrive in collaborative teams, and 
 
 <p align="left">
   <a href="https://linkedin.com/in/shenith-bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenith-bandara" height="30" width="40" /></a>
-  <a href="https://shenithbandara.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/48/ffffff/user-male-circle.png" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://68ff44e79d3a1cf0c7267cfb--inspiring-donut-752c3b.netlify.app" target="blank"><img align="center" src="https://img.icons8.com/material-rounded/48/ffffff/user-male-circle.png" alt="Portfolio" height="30" width="40" /></a>
   <a href="mailto:shenithbandara@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/ffffff/new-post.png" alt="Email" height="30" width="40" /></a>
 </p>
 
@@ -36,6 +36,7 @@ Here are a few projects I'm proud of.
 
 ### 1. 🤖 AI-Aided Automated Grading System (Final Year Project)
 A comprehensive AI-powered system to automate grading for MCQs, essays, and software submissions.
+
 * **My Role:** I am developing the **backend services with Java and Spring Boot**, fine-tuning AI models (Unsloth, TensorFlow), implementing computer vision (YOLOv11), and building the Python desktop app.
 * **Tech:** Java, Spring Boot, Python, TensorFlow, Unsloth, YOLO, OpenCV.
 
